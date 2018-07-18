@@ -1,0 +1,12 @@
+body{
+	background-image: url(img/background/literature.jpg);
+	background-attachment: fixed;
+}
+
+.principal{
+	margin-top: 15%;
+	padding: 3% 0%;
+}
+footer{
+	margin-top: 29%;
+}
